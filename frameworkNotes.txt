@@ -1,7 +1,11 @@
 OPENFL AND LIME:
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Works basically like the same, they use a assets folder and a manifest folder to compile stuff.
 
 KHA:
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Some use a Resource folder but it seems that you can't use Custom ones
 
-They don't use a assets folder. It just combines everything in the folder (At least is my experience with it)
+HEAPS:
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+From what I've looked, it doesn't use a assets folder for some reason
